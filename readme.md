@@ -9,7 +9,7 @@
 #### Configurando primeiro projeto
 * git init
 * git add .
-
+* limpar o terminal --> cls
 #### Salvar sempre o projeto
 * comando para adicionar os arquivos modificados
  ```
