@@ -15,7 +15,7 @@
  ```
 git add .
 ```
-
+caso de dúvida usar o git status
 ```
 git commit -m atualizei-o-projeto
 ```

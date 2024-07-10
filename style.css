@@ -1,3 +1,30 @@
 body{
     background: yellow;
 }
+body{
+    background: darkgreen;
+}
+h1{
+    color: rgb(224, 19, 19);
+    font-size: 30px;
+}
+.p-class{
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px;
+    background-color: rgb(30, 42, 210);
+}
+#p-id{
+    color: brown;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: rgb(255, 204, 0);
+}
+.box:hover{
+    color: blanchedalmond;
+    font-size: 15px;
+    background-color: crimson;
+    
+
+}
